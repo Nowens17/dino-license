@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for LicenseLink Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>licenselink-workspace Search Profile</label>
+        <name>x_881287_license_0_cmuoana_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 16:11:18</sys_created_on>
+        <sys_id>06061a3c453602107747774f3e8a1d5e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>licenselink-workspace Search Profile</sys_name>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_update_name>ais_search_profile_06061a3c453602107747774f3e8a1d5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 16:11:26</sys_updated_on>
+    </ais_search_profile>
+</record_update>

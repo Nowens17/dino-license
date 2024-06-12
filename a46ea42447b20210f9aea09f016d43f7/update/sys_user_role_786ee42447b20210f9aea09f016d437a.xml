@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>This role is intended to go to the owner of ServiceNow subscription(s). This role gives full visibility into licenses that they own. The License Owner has the ability to add/modify/remove users from their subscription groups. They also have the ability to add subscriptions using a default workflow that requests approval from the instance owner and/or their designated approvers.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_881287_license_0.license_owner</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>license_owner</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-11 13:59:59</sys_created_on>
+        <sys_id>786ee42447b20210f9aea09f016d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_881287_license_0.license_owner</sys_name>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_update_name>sys_user_role_786ee42447b20210f9aea09f016d437a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-11 13:59:59</sys_updated_on>
+    </sys_user_role>
+</record_update>

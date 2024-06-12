@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="59169e3c47360210f9aea09f016d4303" sys_domain="global" table="x_881287_license_0_license" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d169e3c47360210f9aea09f016d4307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_881287_license_0_license" name="x_881287_license_0_license" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">59169e3c47360210f9aea09f016d4303</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_881287_license_0_license" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">d9169e3c47360210f9aea09f016d4306</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9169e3c47360210f9aea09f016d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_881287_license_0_license" name="x_881287_license_0_license" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">59169e3c47360210f9aea09f016d4303</sys_ui_form>
+            <sys_ui_section caption="Subscription" display_value="Subscription" name="x_881287_license_0_license" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">e9169e3c47360210f9aea09f016d430a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9169e3c47360210f9aea09f016d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_881287_license_0_license" name="x_881287_license_0_license" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">59169e3c47360210f9aea09f016d4303</sys_ui_form>
+            <sys_ui_section caption="Ownership" display_value="Ownership" name="x_881287_license_0_license" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">a9169e3c47360210f9aea09f016d43a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_881287_license_0_license</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59169e3c47360210f9aea09f016d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_881287_license_0_license</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_59169e3c47360210f9aea09f016d4303</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace LicenseLink Workspace 0" name="workspace-licenselink-workspace-0">ca061a3ccd3602100b2f4fa0e1d55e54</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
