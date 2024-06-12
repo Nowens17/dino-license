@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="afa016b047360210f9aea09f016d43e3" label="License" max_length="40" name="x_881287_license_0_license" text_index="true" type="collection">
+        <element label="Agency" max_length="32" name="agency" reference="x_881287_license_0_agency" type="reference"/>
+        <element label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Program" max_length="32" name="program" reference="x_881287_license_0_program" type="reference"/>
+        <element label="Subscription" mandatory="true" max_length="32" name="subscription" reference="license_details" type="reference"/>
+        <element label="Support Group" max_length="32" name="support_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="agency"/>
+        </index>
+        <index name="index2">
+            <element name="manager"/>
+        </index>
+        <index name="index3">
+            <element name="program"/>
+        </index>
+        <index name="index4">
+            <element name="subscription"/>
+        </index>
+        <index name="index5">
+            <element name="support_group"/>
+        </index>
+    </element>
+</database>

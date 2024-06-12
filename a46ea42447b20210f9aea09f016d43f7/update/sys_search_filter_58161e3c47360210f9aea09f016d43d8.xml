@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Agency">c0161e3c47360210f9aea09f016d438a</ais_search_source>
+        <label>Agency</label>
+        <name>Agency</name>
+        <order>100</order>
+        <search_context_config display_value="LicenseLink Workspace AI Search Configuration">42061a3cf8360210e51ccb172de13755</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 16:11:26</sys_created_on>
+        <sys_id>58161e3c47360210f9aea09f016d43d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agency</sys_name>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_update_name>sys_search_filter_58161e3c47360210f9aea09f016d43d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 16:11:26</sys_updated_on>
+    </sys_search_filter>
+</record_update>

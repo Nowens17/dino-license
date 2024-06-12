@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 16:11:24</sys_created_on>
+        <sys_id>ff06da3c47360210f9aea09f016d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.881287.licenselink-workspace.*.x_881287_license_0.license_admin</sys_name>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_security_acl display_value="x.881287.licenselink-workspace.*">8e061a3c4136021075e9074b90d60754</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ff06da3c47360210f9aea09f016d43dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 16:11:24</sys_updated_on>
+        <sys_user_role display_value="x_881287_license_0.license_admin" name="x_881287_license_0.license_admin">7c6ee42447b20210f9aea09f016d4377</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

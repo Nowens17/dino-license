@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Stats" section_id="3116de3c47360210f9aea09f016d4335" sys_domain="global" table="x_881287_license_0_program" version="3" view="workspace-licenselink-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:32</sys_created_on>
+            <sys_id>3d16de3c47360210f9aea09f016d4336</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_881287_license_0_program" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">3116de3c47360210f9aea09f016d4335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:32</sys_created_on>
+            <sys_id>f916127c47360210f9aea09f016d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_881287_license_0_program" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">3116de3c47360210f9aea09f016d4335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:32</sys_created_on>
+            <sys_id>f116127c47360210f9aea09f016d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Stats" display_value="Stats" name="x_881287_license_0_program" sys_domain="global" view="ca061a3ccd3602100b2f4fa0e1d55e54">3116de3c47360210f9aea09f016d4335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Stats</caption>
+            <header>false</header>
+            <name>x_881287_license_0_program</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 16:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3116de3c47360210f9aea09f016d4335</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_881287_license_0_program</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+            <sys_update_name>sys_ui_section_3116de3c47360210f9aea09f016d4335</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 16:11:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace LicenseLink Workspace 0" name="workspace-licenselink-workspace-0">ca061a3ccd3602100b2f4fa0e1d55e54</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

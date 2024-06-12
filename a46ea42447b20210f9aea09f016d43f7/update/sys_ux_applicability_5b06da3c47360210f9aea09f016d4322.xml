@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_881287_license_0.Audience for app licenselink-workspace</api_name>
+        <description/>
+        <name>Audience for app licenselink-workspace</name>
+        <role_names/>
+        <roles>7c6ee42447b20210f9aea09f016d4377,786ee42447b20210f9aea09f016d437a,706ee42447b20210f9aea09f016d4375,746ee42447b20210f9aea09f016d4372,a06ea42447b20210f9aea09f016d43fe</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 16:11:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5b06da3c47360210f9aea09f016d4322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app licenselink-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_update_name>sys_ux_applicability_5b06da3c47360210f9aea09f016d4322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 16:11:22</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
