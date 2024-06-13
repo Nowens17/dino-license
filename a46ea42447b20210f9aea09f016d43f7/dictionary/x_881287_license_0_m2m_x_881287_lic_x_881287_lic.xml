@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="beba167447760210f9aea09f016d438b" label="Agency Programs" max_length="40" name="x_881287_license_0_m2m_x_881287_lic_x_881287_lic" type="collection">
+        <element attributes="encode_utf8=false" label="Agencies" max_length="32" name="x_881287_license_0_agency" reference="x_881287_license_0_agency" type="reference"/>
+        <element attributes="encode_utf8=false" label="Programs" max_length="32" name="x_881287_license_0_program" reference="x_881287_license_0_program" type="reference"/>
+        <index name="index">
+            <element name="x_881287_license_0_agency"/>
+        </index>
+        <index name="index2">
+            <element name="x_881287_license_0_program"/>
+        </index>
+    </element>
+</database>

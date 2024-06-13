@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>LicenseLink</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 17:54:37</sys_created_on>
+        <sys_id>fbad2a3847f60210f9aea09f016d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LicenseLink</sys_name>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_update_name>sys_ui_view_fbad2a3847f60210f9aea09f016d438d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 17:54:37</sys_updated_on>
+        <title>LicenseLink</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

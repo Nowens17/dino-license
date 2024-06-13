@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="support_group" table="x_881287_license_0_agency">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="x_881287_license_0_license_agency" table="sys_user">
         <active>true</active>
         <array>false</array>
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Support group</column_label>
+        <column_label>License Agency</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>support_group</element>
+        <element>x_881287_license_0_license_agency</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -29,13 +29,13 @@
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_881287_license_0_agency</name>
+        <max_length>32</max_length>
+        <name>sys_user</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user_group">sys_user_group</reference>
+        <reference display_value="" name="x_881287_license_0_agency">x_881287_license_0_agency</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-12 16:05:05</sys_created_on>
-        <sys_name>Support group</sys_name>
+        <sys_created_on>2024-06-12 17:56:30</sys_created_on>
+        <sys_name>License Agency</sys_name>
         <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
-        <sys_update_name>sys_dictionary_x_881287_license_0_agency_support_group</sys_update_name>
+        <sys_update_name>sys_dictionary_sys_user_x_881287_license_0_license_agency</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-12 17:37:34</sys_updated_on>
+        <sys_updated_on>2024-06-12 17:56:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
