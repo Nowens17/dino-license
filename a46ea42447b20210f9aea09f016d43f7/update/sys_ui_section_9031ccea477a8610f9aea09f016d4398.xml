@@ -1,84 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="33ad2a3847f60210f9aea09f016d4392" sys_domain="global" table="sys_user" version="3" view="LicenseLink">
+    <sys_ui_section caption="Employment Details" section_id="9031ccea477a8610f9aea09f016d4398" sys_domain="global" table="sys_user" version="3" view="LicenseLink">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>user_name</element>
+            <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>6431ccea477a8610f9aea09f016d43c8</sys_id>
+            <sys_id>2c31ccea477a8610f9aea09f016d43d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>first_name</element>
+            <element>executive</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>2031ccea477a8610f9aea09f016d43c9</sys_id>
+            <sys_id>a031ccea477a8610f9aea09f016d43d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>last_name</element>
+            <element>manager</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>a431ccea477a8610f9aea09f016d43c9</sys_id>
+            <sys_id>2831ccea477a8610f9aea09f016d43d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>employee_number</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>2c31ccea477a8610f9aea09f016d43c9</sys_id>
+            <sys_id>ac31ccea477a8610f9aea09f016d43d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>introduction</element>
+            <element>vip</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>a031ccea477a8610f9aea09f016d43ca</sys_id>
+            <sys_id>2431ccea477a8610f9aea09f016d43d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>gender</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>2831ccea477a8610f9aea09f016d43ca</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
@@ -86,122 +72,108 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>ac31ccea477a8610f9aea09f016d43ca</sys_id>
+            <sys_id>a831ccea477a8610f9aea09f016d43d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>company</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 15:50:23</sys_created_on>
+            <sys_id>2031ccea477a8610f9aea09f016d43d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organization</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>2431ccea477a8610f9aea09f016d43cb</sys_id>
+            <sys_id>a431ccea477a8610f9aea09f016d43d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email</element>
+            <element>department</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>a831ccea477a8610f9aea09f016d43cb</sys_id>
+            <sys_id>2c31ccea477a8610f9aea09f016d43d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>preferred_language</element>
+            <element>cost_center</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>2031ccea477a8610f9aea09f016d43cc</sys_id>
+            <sys_id>a031ccea477a8610f9aea09f016d43d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>phone</element>
+            <element>job_code</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>a431ccea477a8610f9aea09f016d43cc</sys_id>
+            <sys_id>2831ccea477a8610f9aea09f016d43d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>mobile_phone</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>2c31ccea477a8610f9aea09f016d43cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>photo</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-17 15:50:23</sys_created_on>
-            <sys_id>a031ccea477a8610f9aea09f016d43cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">33ad2a3847f60210f9aea09f016d4392</sys_ui_section>
+            <sys_ui_section caption="Employment Details" display_value="Employment Details" name="sys_user" sys_domain="global" view="fbad2a3847f60210f9aea09f016d438d">9031ccea477a8610f9aea09f016d4398</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-17 15:50:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Employment Details</caption>
             <header>false</header>
             <name>sys_user</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-12 17:54:37</sys_created_on>
+            <sys_created_on>2024-06-17 15:50:22</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>33ad2a3847f60210f9aea09f016d4392</sys_id>
+            <sys_id>9031ccea477a8610f9aea09f016d4398</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_user</sys_name>
             <sys_overrides/>
             <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
             <sys_policy/>
             <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
-            <sys_update_name>sys_ui_section_33ad2a3847f60210f9aea09f016d4392</sys_update_name>
+            <sys_update_name>sys_ui_section_9031ccea477a8610f9aea09f016d4398</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-12 17:54:37</sys_updated_on>
+            <sys_updated_on>2024-06-17 15:50:22</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="LicenseLink" name="LicenseLink">fbad2a3847f60210f9aea09f016d438d</view>
