@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (glidesoft)" source="glidesoft">80cacc20d9313110cedf7dffddb48f27</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 13:10:28</sys_created_on>
+        <sys_id>1abf5fec47430210f9aea09f016d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 13:10:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
