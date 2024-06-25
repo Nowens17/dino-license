@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8ebf1fec47430210f9aea09f016d43fa" extends="sys_user_group" label="License Group" max_length="40" name="x_881287_license_0_license_group" type="collection">
+        <element label="License Grants" max_length="1024" name="license_grants" reference="x_881287_license_0_license" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Subscription count" max_length="255" name="subscription_count" read_only="true" type="integer"/>
+    </element>
+</database>
