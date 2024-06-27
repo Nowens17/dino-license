@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_881287_license_0.LicenseLinkServerUtils</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>false</client_callable>
+        <description>Created, managed, and owned by DinoMax Labs. This script include is a library of useful functions to be called from other server-side scripts within, and outside, the LicenseLink application. Caller tracking enabled.</description>
+        <name>LicenseLinkServerUtils</name>
+        <script><![CDATA[var LicenseLinkServerUtils = Class.create();
+LicenseLinkServerUtils.prototype = {
+    initialize: function() {
+    },
+
+    type: 'LicenseLinkServerUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-25 13:06:17</sys_created_on>
+        <sys_id>53d7608d47430210f9aea09f016d4392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LicenseLinkServerUtils</sys_name>
+        <sys_package display_value="LicenseLink" source="x_881287_license_0">a46ea42447b20210f9aea09f016d43f7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="LicenseLink">a46ea42447b20210f9aea09f016d43f7</sys_scope>
+        <sys_update_name>sys_script_include_53d7608d47430210f9aea09f016d4392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-25 13:06:17</sys_updated_on>
+    </sys_script_include>
+</record_update>
